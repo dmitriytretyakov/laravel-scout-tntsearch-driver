@@ -9,7 +9,7 @@
     }],
     "require": {
         "php": ">=7.1",
-        "dmitriytretyakov/tntsearch": "2.*",
+        "dmitriytretyakov/tntsearch": "dev-master",
         "laravel/scout": "7.*|^8.0",
         "illuminate/bus": "~5.4|^6.0|^7.0",
         "illuminate/contracts": "~5.4|^6.0|^7.0",
