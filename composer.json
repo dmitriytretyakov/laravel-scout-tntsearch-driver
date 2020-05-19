@@ -7,6 +7,12 @@
         "name": "TNT Studio",
         "email": "info@tntstudio.hr"
     }],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/dmitriytretyakov/tntsearch.git"
+        }
+    ],
     "require": {
         "php": ">=7.1",
         "teamtnt/tntsearch": "2.*",
