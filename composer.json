@@ -7,9 +7,15 @@
         "name": "TNT Studio",
         "email": "info@tntstudio.hr"
     }],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/dmitriytretyakov/tntsearch.git"
+        }
+    ],
     "require": {
         "php": ">=7.1",
-        "dmitriytretyakov/tntsearch": "dev-master",
+        "teamtnt/tntsearch": "dev-master",
         "laravel/scout": "7.*|^8.0",
         "illuminate/bus": "~5.4|^6.0|^7.0",
         "illuminate/contracts": "~5.4|^6.0|^7.0",
